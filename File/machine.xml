@@ -1,0 +1,58 @@
+﻿<!-- 机械 -->
+<xml>
+	<MeteData TableName1="tblJiXieFenLeiYiJi" TableName2="tblJiXieFenLeiErJi"
+		TableName3="tblJiXieFenLeiSanJi" FirstForeighKey="Cat1ID"
+		SecondForeighKey="Cat2ID" />
+	<FirstClass ID="货车/自卸车/等运输车辆类">
+		<item name="前二后八自卸车"></item>
+		<item name="前四后八自卸车"></item>
+		<item name="前二后四自卸车"></item>
+		<item name="前四后四自卸车"></item>
+		<item name="半挂自卸车"></item>
+		<item name="平板车"></item>
+		<item name="其他运输车辆"></item>
+	</FirstClass>
+	<FirstClass ID="挖机/装载/推土/等土方机械类">
+		<item name="挖掘机"></item>
+		<item name="装载机"></item>
+		<item name="推土机"></item>
+		<item name="铲运机"></item>
+		<item name="平地机"></item>
+		<item name="其他土方机械"></item>
+	</FirstClass>
+	<FirstClass ID="混凝土机械类">
+		<item name="混凝土搅拌运输车"></item>
+		<item name="混凝土泵车"></item>
+		<item name="混凝土搅拌设备"></item>
+	</FirstClass>
+	<FirstClass ID="吊车/塔吊/叉车/等起重机械类">
+		<item name="汽车吊/随车吊"></item>
+		<item name="叉车"></item>
+		<item name="塔吊"></item>
+		<item name="高空作业机械"></item>
+		<item name="架桥机/龙门吊/运梁机"></item>
+		<item name="其他起重机械"></item>
+	</FirstClass>
+	<FirstClass ID="压路/洒水/摊铺/等路面机械类">
+		<item name="压路机/压实机"></item>
+		<item name="洒水车"></item>
+		<item name="摊铺机/铣刨机"></item>
+		<item name="沥青搅拌站/设备"></item>
+		<item name="其他路面机械"></item>
+	</FirstClass>
+	<FirstClass ID="钻机/打桩/等桩机机械类">
+		<item name="潜孔钻机/旋挖钻机/平行钻"></item>
+		<item name="打桩机/液压静力压桩机"></item>
+		<item name="其它桩机"></item>
+	</FirstClass>
+	<FirstClass ID="发电机/空压机/等动力设备类">
+		<item name="发电机组"></item>
+		<item name="发动机"></item>
+		<item name="空压机/电焊机"></item>
+	</FirstClass>
+	<FirstClass ID="脚手架/钢模板/破碎设备类">
+		<item name="脚手架/钢模板/钢板"></item>
+		<item name="破碎设备"></item>
+		<item name="港口/矿山机械"></item>
+	</FirstClass>
+</xml>

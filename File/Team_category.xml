@@ -1,0 +1,107 @@
+﻿<!-- 施工队 -->
+<xml>
+	<MeteData TableName1="Team_category" />
+	<Items ID="安装类">
+		<item name="拆卸安装/设备安装/拆除"></item>
+		<item name="电焊工/钣金/冷作"></item>
+		<item name="给排水/消防/水暖管道"></item>
+		<item name="管道安装/焊接"></item>
+		<item name="弱电/综合布线/安防/监控"></item>
+		<item name="电力安装/强电"></item>
+		<item name="景观路灯/水电安装"></item>
+		<item name="活动房安装/制作"></item>
+		<item name="中央空调安装"></item>
+		<item name="其他安装队伍"></item>
+	</Items>
+	<Items ID="施工类">
+		<item name="人工挖桩/爆破"></item>
+		<item name="模板工/木工"></item>
+		<item name="环氧地坪"></item>
+		<item name="测量班"></item>
+		<item name="预应力/注浆/锚杆锚索"></item>
+		<item name="钢筋绑扎/制作"></item>
+		<item name="泥瓦工/抹灰"></item>
+		<item name="幕墙制作"></item>
+		<item name="网架工/架子工"></item>
+		<item name="钻井/顶管/打井"></item>
+		<item name="外墙保温"></item>
+		<item name="土建/房建"></item>
+		<item name="隔墙龙骨/天花吊顶"></item>
+		<item name="贴瓷砖/干挂大理石"></item>
+		<item name="油漆/涂料/喷涂/刮大白"></item>
+		<item name="装修装饰"></item>
+		<item name="园林绿化/古建筑"></item>
+		<item name="土石方/路面顸实"></item>
+		<item name="护坡/挡墙/砌石工"></item>
+		<item name="桩基础/边坡/基坑/混凝土"></item>
+		<item name="道路/桥梁/涵洞"></item>
+		<item name="隧道二衬班/头衬班"></item>
+		<item name="杂工/力工/搬运工/民工"></item>
+		<item name="其他施工队伍"></item>
+		<item name="环保施工"></item>
+	</Items>
+	<Items ID="预算类">
+		<item name="钢结构安装/制作"></item>
+		<item name="拆卸安装/设备安装/拆除"></item>
+		<item name="电焊工/钣金/冷作"></item>
+		<item name="给排水/消防/水暖管道"></item>
+		<item name="管道安装/焊接"></item>
+		<item name="弱电/综合布线/安防/监控"></item>
+		<item name="电力安装/强电"></item>
+		<item name="景观路灯/水电安装"></item>
+		<item name="活动房安装/制作"></item>
+		<item name="电梯安装/制作"></item>
+		<item name="中央空调安装"></item>
+		<item name="其他安装队伍"></item>
+	</Items>
+	<Items ID="设计类">
+		<item name="钢结构安装/制作"></item>
+		<item name="拆卸安装/设备安装/拆除"></item>
+		<item name="电焊工/钣金/冷作"></item>
+		<item name="给排水/消防/水暖管道"></item>
+		<item name="管道安装/焊接"></item>
+		<item name="弱电/综合布线/安防/监控"></item>
+		<item name="电力安装/强电"></item>
+		<item name="景观路灯/水电安装"></item>
+		<item name="活动房安装/制作"></item>
+		<item name="电梯安装/制作"></item>
+		<item name="中央空调安装"></item>
+		<item name="其他安装队伍"></item>
+	</Items>
+	<Items ID="监理类">
+		<item name="钢结构安装/制作"></item>
+		<item name="拆卸安装/设备安装/拆除"></item>
+		<item name="电焊工/钣金/冷作"></item>
+		<item name="给排水/消防/水暖管道"></item>
+		<item name="管道安装/焊接"></item>
+		<item name="弱电/综合布线/安防/监控"></item>
+		<item name="电力安装/强电"></item>
+		<item name="景观路灯/水电安装"></item>
+		<item name="活动房安装/制作"></item>
+		<item name="电梯安装/制作"></item>
+		<item name="中央空调安装"></item>
+		<item name="其他安装队伍"></item>
+	</Items>
+	<Items ID="造价类">
+		<item name="钢结构安装/制作"></item>
+		<item name="拆卸安装/设备安装/拆除"></item>
+		<item name="电焊工/钣金/冷作"></item>
+		<item name="给排水/消防/水暖管道"></item>
+		<item name="管道安装/焊接"></item>
+		<item name="弱电/综合布线/安防/监控"></item>
+		<item name="电力安装/强电"></item>
+		<item name="景观路灯/水电安装"></item>
+		<item name="活动房安装/制作"></item>
+		<item name="电梯安装/制作"></item>
+		<item name="中央空调安装"></item>
+		<item name="其他安装队伍"></item>
+	</Items>
+</xml>
+
+
+
+
+
+
+
+

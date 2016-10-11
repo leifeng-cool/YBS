@@ -1,0 +1,89 @@
+<!-- 个人劳务/工种 -->
+<xml>
+	<MeteData TableName1="tblGeRenLaoWuYiJi" TableName2="tblGeRenLaoWuErJi"
+		TableName3="tblGeRenLaoWuSanJi" FirstForeighKey="Cat1ID"
+		SecondForeighKey="Cat2ID" />
+	<FirstClass ID="技术工种类">
+		<item name="电焊工"></item>
+		<item name="爆破工"></item>
+		<item name="木工"></item>
+		<item name="建筑工"></item>
+		<item name="绿化员"></item>
+		<item name="抹灰工"></item>
+		<item name="水暖工"></item>
+		<item name="石工"></item>
+		<item name="沥青工"></item>
+		<item name="机械设备油漆工"></item>
+		<item name="家装油漆工"></item>
+		<item name="混凝土工"></item>
+		<item name="模板工"></item>
+		<item name="钢筋工"></item>
+		<item name="架子工"></item>
+		<item name="风炮工"></item>
+		<item name="防水工"></item>
+		<item name="杂工力工"></item>
+		<item name="弱电工"></item>
+		<item name="水电工"></item>
+		<item name="电工"></item>
+		<item name="电气设备安装工"></item>
+		<item name="泥瓦工"></item>
+		<item name="机械维修工"></item>
+		<item name="安装员"></item>
+		<item name="瓷砖工"></item>
+		<item name="其他"></item>
+	</FirstClass>
+	<FirstClass ID="司机/驾驶员类">
+		<item name="挖掘机司机"></item>
+		<item name="混凝土搅拌车司机"></item>
+		<item name="架桥机驾驶员"></item>
+		<item name="压路机司机 "></item>
+		<item name="顶管机驾驶员"></item>
+		<item name="装载机司机"></item>
+		<item name="摊铺机司机"></item>
+		<item name="矿用掘进机"></item>
+		<item name="龙门吊驾驶员"></item>
+		<item name="打桩机驾驶员"></item>
+		<item name="推土机司机"></item>
+		<item name="铣刨机司机"></item>
+		<item name="塔吊司机"></item>
+		<item name="平地机司机"></item>
+		<item name="潜孔钻机"></item>
+		<item name="铲运机司机"></item>
+		<item name="沥青搅拌站操作员"></item>
+		<item name="汽车起重机司机"></item>
+		<item name="后八轮司机"></item>
+		<item name="地磅操作员"></item>
+		<item name="泵车司机"></item>
+		<item name="叉车司机"></item>
+		<item name="上土机"></item>
+		<item name="货车司机"></item>
+		<item name="其他司机"></item>
+		<item name="挂车司机"></item>
+		<item name="其他"></item>
+	</FirstClass>
+	<FirstClass ID="工程师类">
+		<item name="工程项目管理"></item>
+		<item name="建筑工程师/总工"></item>
+		<item name="土木/土建工程师"></item>
+		<item name="造价师/预算师"></item>
+		<item name="经理/主管"></item>
+		<item name="幕墙工程师"></item>
+		<item name="安防工程师"></item>
+		<item name="安全管理/安全员"></item>
+		<item name="道路/桥梁施工员"></item>
+		<item name="技术员"></item>
+		<item name="合同管理资料员"></item>
+		<item name="招商经理/主管"></item>
+		<item name="给排水/制冷/暖通"></item>
+		<item name="测绘/测量"></item>
+		<item name="园林/景观设计"></item>
+		<item name="房地产开发/策划 "></item>
+		<item name="动力工程师 "></item>
+		<item name="监理员"></item>
+		<item name="实验员"></item>
+		<item name="电力工程师"></item>
+		<item name="设计师"></item>
+		<item name="其他工程师"></item>
+	</FirstClass>
+</xml>
+

@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--余料-->
+<MeteData TableName1="modular_category">
+	<FirstClass ID="钢材类" >
+		<item name="型钢">
+			<item>方钢</item>
+			<item>扁钢</item>
+			<item>槽钢</item>
+			<item>角钢</item>
+			<item>工字钢</item>
+			<item>六角钢</item>
+		</item>
+		<item name="钢筋">
+			<item>圆钢</item>
+			<item>螺纹钢</item>
+			<item>线材</item>
+		</item>
+		<item name="管材">
+			<item>无缝管</item>
+			<item>焊管</item>
+		</item>
+		<item name="钢板">
+			<item>薄钢板</item>
+			<item>中厚钢板</item>
+		</item>
+		<item name="钢丝绳、绞线">
+			<item> 钢丝绳 </item>
+			<item>钢绞线</item>
+			<item>镀锌钢绞线</item>
+		</item>
+
+	</FirstClass>
+
+	<FirstClass ID="水泥类">
+		<item name="普通水泥">
+			<item>普通硅酸盐水泥</item>
+			<item>火山灰质</item>
+			<item>矿渣硅酸盐水泥</item>
+		</item>
+		<item name="快硬高强水泥">
+			<item> 快硬硅酸盐水泥</item>
+			<item> 矾土水泥</item>
+		</item>
+		<item name="耐浸蚀水泥">
+			<item> 抗流酸盐水泥</item>
+			<item> 水玻璃型耐酸水泥</item>
+		</item>
+		<item name="膨胀水泥">
+			<item>硅酸盐膨胀水泥</item>
+			<item>石膏矾土膨胀水泥</item>
+		</item>
+	</FirstClass>
+
+	<FirstClass ID="木材类">
+		<item name="原木"></item>
+		<item name="方木"></item>
+		<item name="板材"></item>
+		<item name="竹材"></item>
+		<item name="毛竹"></item>
+		<item name="人造板"></item>
+		<item name="木工板"></item>
+		<item name="硬质纤维板"></item>
+		<item name="胶合板"></item>
+	</FirstClass>
+
+	<FirstClass ID="焊接材料类">
+
+		<item name="电焊条">
+			<item>结构钢焊条</item>
+			<item>铸铁电焊条</item>
+			<item>铜铝合金焊条</item>
+		</item>
+		<item name="电渣焊焊丝">
+			<item> 碳素钢焊丝</item>
+			<item> 合金钢焊丝</item>
+			<item> 不锈钢焊丝</item>
+		</item>
+		<item name="有色金属焊丝">
+			<item> 铜</item>
+			<item> 铝合金焊丝</item>
+		</item>
+		<item name="气焊粉">
+			<item>铜</item>
+			<item>铝焊粉</item>
+			<item>铸铁焊粉</item>
+		</item>
+		<item name="钎焊料">
+			<item>铜</item>
+			<item>铝钎料</item>
+			<item>锡铅焊料</item>
+			<item>铝钎焊熔济</item>
+		</item>
+
+	</FirstClass>
+
+	<FirstClass ID="砌块、砖瓦">
+
+		<item name="砌块">
+			<item>蒸养粉煤灰硅酸盐砌块</item>
+		</item>
+		<item name="砖">
+			<item>普通粘土砖</item>
+			<item>粘土空心砖</item>
+		</item>
+		<item name="瓦">
+			<item>粘土瓦</item>
+			<item>石棉瓦</item>
+			<item>玻璃钢瓦</item>
+			<item>琉璃瓦</item>
+		</item>
+		<item name="混凝土块">
+
+		</item>
+		<item name="砖渣">
+
+		</item>
+
+
+	</FirstClass>
+
+	<FirstClass ID="石类">
+
+		<item name="石料">
+			<item>花岗岩</item>
+			<item>大理石</item>
+			<item>人造大理石</item>
+			<item>水磨石制品</item>
+		</item>
+		<item name="石子">
+			<item>砾石</item>
+			<item>碎石</item>
+			<item>米石</item>
+			<item>石粉</item>
+		</item>
+
+
+	</FirstClass>
+
+	<FirstClass ID="砂类">
+
+		<item name="普通砂">
+			<item>净砂</item>
+			<item>粗砂</item>
+			<item>中砂</item>
+			<item>细砂</item>
+		</item>
+
+	</FirstClass>
+
+	<FirstClass ID="灰">
+
+		<item name="生石灰（块灰）"></item>
+		<item name="熟石灰"></item>
+		<item name="水化石灰"></item>
+		<item name="消石灰"></item>
+		<item name="石灰浆"></item>
+		<item name="石灰膏"></item>
+
+	</FirstClass>
+
+	<FirstClass ID="建筑五金类">
+
+		<item name="门窗配件">
+			<item>门锁</item>
+			<item>拉手及执手</item>
+			<item>合页</item>
+			<item>插销</item>
+			<item>自动闭门器</item>
+		</item>
+		<item name="钉">
+			<item>园钉</item>
+			<item>扁头钉</item>
+			<item>射钉</item>
+			<item>瓦楞钉</item>
+			<item>石棉瓦钉</item>
+		</item>
+		<item name="木螺钉">
+			<item>沉头木螺钉</item>
+			<item>半沉头木螺钉</item>
+			<item>半圆头木螺钉</item>
+		</item>
+		<item name="螺栓">
+			<item>六角头螺栓</item>
+			<item>双头螺栓</item>
+			<item>地角螺栓</item>
+		</item>
+		<item name="螺母">
+			<item>六角螺母</item>
+			<item>小六角头螺母</item>
+		</item>
+		<item name="垫圈">
+			<item>光垫圈</item>
+			<item>毛垫圈</item>
+			<item>弹簧垫圈</item>
+			<item>羊毛毡垫圈</item>
+			<item>羊眼</item>
+			<item>羊眼圈</item>
+			<item>螺丝鼻</item>
+
+		</item>
+		<item name="花蓝螺丝">
+			<item>索具螺旋扣）平开式花蓝螺丝</item>
+			<item>团式花蓝螺丝</item>
+		</item>
+		<item name="窗钩">
+			<item>风钩</item>
+			<item>防风钩</item>
+		</item>
+		<item name="灯钩">
+			<item>挂钩</item>
+			<item>螺丝钩</item>
+		</item>
+		<item name="锁扣">
+			<item>箱扣</item>
+			<item>扣吊</item>
+			<item>锁牌</item>
+			<item>了扣</item>
+			<item>门搭扣</item>
+		</item>
+		<item name="碰珠">
+			<item>碰珠</item>
+			<item>弹弓珠</item>
+		</item>
+		<item name="窗帘轨">
+			<item>铜</item>
+			<item>铝质轨道滑轮</item>
+			<item>窗帘紧线</item>
+			<item>窗帘环</item>
+		</item>
+		<item name="三角铁">
+			<item>T型铁角</item>
+			<item>L型铁角</item>
+		</item>
+		<item name="链条">
+			<item>锁链</item>
+			<item>吊灯链</item>
+			<item>瓜子链</item>
+		</item>
+		<item name="金属网及板网">
+			<item>钢</item>
+			<item>铜</item>
+			<item>铁丝网</item>
+			<item>钢</item>
+			<item>铜</item>
+			<item>铁</item>
+			<item>铝板网</item>
+			<item>窗纱</item>
+			<item>筛子底</item>
+		</item>
+		<item name="钢丝、铁丝">
+			<item>低碳钢丝</item>
+			<item>铁丝</item>
+			<item>铅丝</item>
+			<item>镀锌铁丝</item>
+			<item>黑铁丝</item>
+		</item>
+
+
+	</FirstClass>
+
+	<FirstClass ID="陶瓷类">
+
+		<item name="卫生陶瓷">
+
+		</item>
+		<item name="玻璃陶瓷墙、地砖">
+			<item>浴缸</item>
+			<item>坐便器</item>
+			<item>小便器</item>
+			<item>全瓷墙</item>
+			<item>地砖</item>
+			<item>半瓷墙</item>
+			<item>地砖</item>
+			<item>陶瓷锦砖</item>
+			<item>釉面砖</item>
+			<item>园林砖</item>
+		</item>
+
+	</FirstClass>
+
+	<FirstClass ID="玻璃类">
+
+		<item name="普通玻璃">
+			<item>平板玻璃</item>
+			<item>压花玻璃</item>
+			<item>浮法玻璃</item>
+			<item>磨纱玻璃</item>
+		</item>
+		<item name="特种玻璃">
+			<item>防暴玻璃</item>
+			<item>加丝玻璃</item>
+			<item>中空玻璃</item>
+			<item>加层玻璃</item>
+			<item>电热玻璃</item>
+		</item>
+		<item name="玻璃砖">
+			<item>玻璃砖</item>
+			<item>玻璃马赛克</item>
+		</item>
+
+	</FirstClass>
+
+	<FirstClass ID="油漆涂料类">
+
+		<item name="油漆">
+			<item>清漆</item>
+			<item>瓷漆</item>
+			<item>聚脂漆</item>
+			<item>油脂漆</item>
+			<item>地板漆</item>
+		</item>
+		<item name="耐腐蚀油漆">
+			<item>防锈漆</item>
+			<item>生漆</item>
+			<item>沥青漆</item>
+		</item>
+		<item name="防火油漆">
+			<item>无极防火漆</item>
+			<item>酚醛防火漆</item>
+		</item>
+		<item name="漆片">
+			<item>漆片（虫胶片）</item>
+		</item>
+		<item name="一般涂料">
+			<item>106涂料</item>
+			<item>多彩内墙涂料</item>
+			<item>防瓷涂料</item>
+		</item>
+
+	</FirstClass>
+
+	<FirstClass ID="铝、铝合金" />
+
+	<FirstClass ID="铜、铜合金" />
+</MeteData>

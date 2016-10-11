@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--模块-->
+<MeteData TableName1="Module">
+	<FirstClass ID="工程信息"></FirstClass>
+	<FirstClass ID="施工队与人才招聘"></FirstClass>
+	<FirstClass ID="余废料"></FirstClass>
+	<FirstClass ID="机械设备"></FirstClass>
+	<FirstClass ID="考察培训"></FirstClass>
+	<FirstClass ID="商城"></FirstClass>
+	<FirstClass ID="融资"></FirstClass>
+	<FirstClass ID="娱乐"></FirstClass>
+	<FirstClass ID="论坛"></FirstClass>
+	<FirstClass ID="客服"></FirstClass>
+</MeteData>

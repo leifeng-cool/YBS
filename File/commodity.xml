@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MeteData TableName="modular_category">
+	<FirstClass ID="安防、劳保、清洁">
+		<item name="标识、用品">
+			<item>路锥</item>
+			<item>警戒带</item>
+			<item>线缆标识</item>
+			<item>交通标识</item>
+			<item>管道标识</item>
+			<item>安全告示牌</item>
+			<item>osha门标识</item>
+			<item>地贴警示标识</item>
+			<item>osha火灾消防安全标识</item>
+			<item>挂锁</item>
+			<item>上锁、挂牌</item>
+			<item>灭火器</item>
+			<item>应急处理</item>
+			<item>消防装备</item>
+		</item>
+		<item name="手部防护">
+			<item>劳保手套</item>
+			<item>防化手套</item>
+			<item>防割手套</item>
+			<item>焊接手套</item>
+			<item>PVC手套</item>
+			<item>耐磨手套</item>
+			<item>防滑手套</item>
+			<item>帆布手套</item>
+			<item>短皮手套</item>
+			<item>耐高温手套</item>
+			<item>耐低温手套</item>
+			<item>绝缘手套</item>
+			<item>细沙作业手套</item>
+			<item>纱线手套</item>
+			<item>尼龙手套</item>
+			<item>防电手套</item>
+			<item>pu涂层手套</item>
+			<item>牛筋手套</item>
+			<item>辐射手套</item>
+			<item>其他手套</item>
+		</item>
+		<item name="呼吸防护">
+			<item>空气呼吸机</item>
+			<item>防毒面具</item>
+			<item>防尘口罩</item>
+			<item>防尘面罩</item>
+			<item>医用口罩</item>
+			<item>辐射呼吸防护</item>
+			<item>滤盒</item>
+			<item>滤棉</item>
+			<item>防尘配件</item>
+			<item>防毒配件</item>
+			<item>滤罐</item>
+			<item>呼吸器配件</item>
+		</item>
+		<item name="足部防护">
+			<item>防静电鞋</item>
+			<item>安全鞋</item>
+			<item>电绝缘鞋</item>
+			<item>矿工鞋</item>
+			<item>防油鞋</item>
+			<item>耐高温、低温鞋</item>
+			<item>耐酸碱鞋</item>
+			<item>防化鞋</item>
+			<item>导电鞋</item>
+			<item>鞋套</item>
+			<item>其它鞋</item>
+		</item>
+		<item name="身体防护">
+			<item>防护服</item>
+			<item>防化服</item>
+			<item>工装</item>
+			<item>雨衣</item>
+			<item>焊接防护服</item>
+			<item>消防服</item>
+			<item>辐射服</item>
+			<item>雨衣</item>
+			<item>防尘服</item>
+			<item>职业工装</item>
+			<item>消防战斗服</item>
+			<item>防静电服</item>
+			<item>低温防护服</item>
+			<item>高温隔热服</item>
+			<item>防酸碱服</item>
+			<item>阻燃防护服</item>
+			<item>防蜂服</item>
+			<item>反光服</item>
+		</item>
+		<item name="头部防护">
+			<item>安全帽</item>
+			<item>防寒帽</item>
+			<item>工作帽</item>
+			<item>防护头罩</item>
+			<item>防撞帽</item>
+			<item>头套</item>
+			<item>耳塞</item>
+			<item>耳罩</item>
+			<item>面罩</item>
+			<item>护目镜</item>
+			<item>劳保眼镜</item>
+			<item>工业防护眼镜</item>
+			<item>运动防护眼镜</item>
+		</item>
+		<item name="清洁用品">
+			<item>镜片清洁剂</item>
+			<item>擦拭布</item>
+			<item>擦拭纸</item>
+			<item>地垫</item>
+			<item>个人清洁用品</item>
+			<item>工业清洁用品</item>
+			<item>其他</item>
+		</item>
+		<item name="其他防护">
+			<item>安全绳</item>
+			<item>高空作业保护</item>
+		</item>
+	</FirstClass>
+	<FirstClass ID="机械配件">
+		<item name="混泥土搅拌机"></item>
+		<item name="空压机"></item>
+		<item name="高压旋喷机"></item>
+		<item name="混泥土车"></item>
+		<item name="泵车"></item>
+		<item name="履带式起重机"></item>
+		<item name="铲车"></item>
+		<item name="刨地机"></item>
+		<item name="压路机"></item>
+		<item name="打桩机"></item>
+		<item name="顶管机"></item>
+		<item name="挖掘机"></item>
+		<item name="起重机"></item>
+		<item name="塔吊"></item>
+		<item name="推土机"></item>
+		<item name="泥头车"></item>
+		<item name="盾构机"></item>
+		<item name="其他配件"></item>
+	</FirstClass>
+	<FirstClass ID="手动、动力工具及耗材、电器材">
+		<item name="扳手、套筒">
+			<item>活动扳手</item>
+			<item>旋转套筒</item>
+			<item>两用扳手</item>
+			<item>棘轮扳手</item>
+			<item>梅花扳手</item>
+			<item>内六角扳手</item>
+			<item>开口扳手</item>
+			<item>扭力扳手</item>
+			<item>单头扳手</item>
+			<item>手用扳手</item>
+			<item>手用套筒</item>
+			<item>套筒配件</item>
+		</item>
+		<item name="钳工工具">
+			<item>尖嘴钳</item>
+			<item>钢丝钳</item>
+			<item>斜嘴钳</item>
+			<item>水泵钳</item>
+			<item>卡簧钳</item>
+			<item>剥线钳</item>
+			<item>压线钳</item>
+			<item>其他钳类工具</item>
+		</item>
+		<item name="螺丝批">
+			<item>一字螺丝批</item>
+			<item>十字螺丝批</item>
+			<item>螺丝批组合套</item>
+			<item>其他螺丝批</item>
+		</item>
+		<item name="其他专业工具">
+			<item>修车工具</item>
+			<item>绝缘工具</item>
+			<item>电子工具</item>
+			<item>防静电工具</item>
+		</item>
+		<item name="锤、尺、刀、其他">
+			<item>工具尺</item>
+			<item>凿</item>
+			<item>冲</item>
+			<item>锯</item>
+			<item>撬棒</item>
+			<item>修边工具</item>
+			<item>刀</item>
+			<item>锤子</item>
+			<item>剪刀</item>
+			<item>拉马</item>
+			<item>镊子</item>
+			<item>其他手动工具</item>
+		</item>
+		<item name="手动工具包、箱">
+			<item>工具手提包</item>
+			<item>金属工具箱</item>
+			<item>综合工具套装</item>
+			<item>工具车</item>
+			<item>多用途推工具车</item>
+			<item>工具包</item>
+			<item>拉杆工具箱</item>
+			<item>模块化工具套装</item>
+		</item>
+		<item name="电动工具">
+			<item>角磨机</item>
+			<item>电钻</item>
+			<item>电锤</item>
+			<item>电锯</item>
+			<item>抛光机</item>
+			<item>冲击钻</item>
+			<item>电动扳手</item>
+			<item>电动螺丝刀</item>
+			<item>磨砂机</item>
+			<item>直磨机</item>
+			<item>其他电动工具</item>
+		</item>
+		<item name="工具耗材、箱">
+			<item>铲凿</item>
+			<item>冲击街头及延长杆</item>
+			<item>钻头</item>
+			<item>冲击套筒</item>
+			<item>电动工具附件</item>
+			<item>电钻附件</item>
+			<item>钢板钻</item>
+			<item>锯片</item>
+			<item>锯条</item>
+			<item>开孔器</item>
+			<item>螺丝批头</item>
+			<item>螺丝批头套筒及延长杆</item>
+			<item>气动接杆</item>
+			<item>气动街头</item>
+			<item>气动套筒</item>
+			<item>套筒O型环</item>
+			<item>套筒挡圈</item>
+			<item>套筒定位销</item>
+			<item>铁丝</item>
+			<item>钉子类</item>
+			<item>通用附件</item>
+		</item>
+		<item name="磨具磨料">
+			<item>百叶轮</item>
+			<item>白叶盘</item>
+			<item>带柄磨具</item>
+			<item>钢丝刷</item>
+			<item>尼龙刷</item>
+			<item>工业抛光膏</item>
+			<item>磨片</item>
+			<item>抛光轮</item>
+			<item>切割片</item>
+			<item>清洗擦拭</item>
+			<item>砂纸</item>
+			<item>油石</item>
+			<item>自粘砂碟</item>
+		</item>
+		<item name="气动工具">
+			<item>气动扳手</item>
+			<item>气动打磨机</item>
+			<item>气动钉枪</item>
+			<item>气动螺丝刀</item>
+			<item>气动砂轮机</item>
+			<item>气动研磨机</item>
+			<item>气钻</item>
+		</item>
+		<item name="电控器材">
+			<item>变频器</item>
+			<item>断路器</item>
+			<item>接触器</item>
+			<item>继电器</item>
+			<item>电源，变压器</item>
+			<item>开关</item>
+			<item>按钮</item>
+			<item>指示灯</item>
+			<item>软起动器</item>
+		</item>
+		<item name="电工器材">
+			<item>配电箱体</item>
+			<item>插头</item>
+			<item>插座</item>
+			<item>开关面板</item>
+			<item>接线板</item>
+			<item>电工胶带</item>
+			<item>接线端子排</item>
+			<item>冷压端子</item>
+			<item>扎线带</item>
+		</item>
+	</FirstClass>
+	<FirstClass ID="办公、仓储及物流用品">
+		<item name="办公用品">
+			<item>办公设备</item>
+			<item>办公文具</item>
+			<item>办公用纸</item>
+		</item>
+		<item name="包装">
+			<item>包装袋</item>
+			<item>打包带</item>
+			<item>包装工具及附件</item>
+		</item>
+		<item name="胶带、储存">
+			<item>刀具柜</item>
+			<item>工位柜</item>
+			<item>置物柜</item>
+			<item>工作台</item>
+			<item>椅</item>
+			<item>凳</item>
+			<item>塑料存储箱</item>
+			<item>美纹纸胶带</item>
+		</item>
+		<item name="物流搬运">
+			<item>梯</item>
+			<item>手推车</item>
+			<item>升降平台</item>
+			<item>千斤顶</item>
+			<item>平台车</item>
+			<item>堆高车</item>
+			<item>平台秤</item>
+			<item>搬运车</item>
+			<item>叉车及附件</item>
+			<item>电动车车</item>
+			<item>吊索具</item>
+			<item>起重设备</item>
+			<item>脚轮配件</item>
+		</item>
+		<item name="书籍">
+			<item>文学</item>
+			<item>小说</item>
+			<item>传记</item>
+			<item>经济管理</item>
+			<item>少儿</item>
+			<item>历史</item>
+			<item>哲学与宗教</item>
+			<item>国学</item>
+			<item>心理学</item>
+			<item>政治与军事</item>
+			<item>法律</item>
+			<item>旅游与地图</item>
+			<item>健身与保健</item>
+			<item>家居休闲</item>
+			<item>考试</item>
+			<item>外语</item>
+			<item>词典与工具书</item>
+			<item>励志语成功</item>
+			<item>科技与自然</item>
+			<item>艺术与摄影</item>
+		</item>
+	</FirstClass>
+	<FirstClass ID="家用小百货">
+		<item name="家电、数码、手机">
+			<item>净水器</item>
+			<item>吸尘器</item>
+			<item>烤箱</item>
+			<item>豆浆机</item>
+			<item>榨汁机</item>
+			<item>电饭煲</item>
+			<item>足浴盆</item>
+			<item>剃须刀</item>
+			<item>卷发器</item>
+			<item>按摩器</item>
+			<item>网络机顶盒</item>
+			<item>空调</item>
+			<item>电视</item>
+			<item>冰箱</item>
+			<item>IPAD</item>
+			<item>笔记本</item>
+			<item>电脑</item>
+			<item>摄像机</item>
+			<item>路由器</item>
+			<item>照相机</item>
+			<item>苹果手机</item>
+			<item>三星手机</item>
+			<item>华为手机</item>
+			<item>小米手机</item>
+			<item>其他手机</item>
+		</item>
+		<item name="服装、箱包、鞋靴、配件配饰">
+			<item>女装</item>
+			<item>男装</item>
+			<item>内衣</item>
+			<item>童装</item>
+			<item>人字拖</item>
+			<item>一脚蹬</item>
+			<item>四季鞋</item>
+			<item>平底鞋</item>
+			<item>高跟鞋</item>
+			<item>帆布鞋</item>
+			<item>休闲鞋</item>
+			<item>商务鞋</item>
+			<item>凉拖鞋</item>
+			<item>运动鞋</item>
+			<item>正装鞋</item>
+			<item>男包</item>
+			<item>女包</item>
+			<item>双肩包</item>
+			<item>单肩包</item>
+			<item>斜挎包</item>
+			<item>手提包</item>
+			<item>手抓包</item>
+			<item>钱包</item>
+			<item>真皮包</item>
+			<item>拉杆箱</item>
+			<item>帽子</item>
+			<item>围巾</item>
+			<item>手套</item>
+			<item>腰带</item>
+			<item>耳钉</item>
+			<item>手镯</item>
+			<item>DIY饰品</item>
+		</item>
+		<item name="家饰、家纺、玩具">
+			<item>蚊帐</item>
+			<item>枕头</item>
+			<item>凉席</item>
+			<item>床上套件</item>
+			<item>毛巾</item>
+			<item>洗漱用品</item>
+			<item>露营用品</item>
+			<item>户外玩具</item>
+			<item>遥控模型</item>
+			<item>儿童自行车</item>
+			<item>学习用品</item>
+			<item>积木</item>
+			<item>早教</item>
+		</item>
+	</FirstClass>
+</MeteData>

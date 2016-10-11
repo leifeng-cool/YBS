@@ -1,0 +1,34 @@
+<!-- 建筑材料 -->
+<xml>
+	<MeteData TableName1="tblJianZhuCaiLiaoYiJi" TableName2="tblJianZhuCaiLiaoErJi"
+		TableName3="tblJianZhuCaiLiaoSanJi" FirstForeighKey="Cat1ID"
+		SecondForeighKey="Cat2ID" />
+	<FirstClass ID="建筑材料">
+		<item name="基础建材"></item>
+		<item name="油漆涂料"></item>
+		<item name="建筑五金"></item>
+		<item name="电梯楼梯"></item>
+		<item name="厨房设备"></item>
+		<item name="卫浴洁具"></item>
+		<item name="瓷砖"></item>
+		<item name="天花吊顶"></item>
+		<item name="地面材料"></item>
+		<item name="墙体材料"></item>
+		<item name="家具"></item>
+		<item name="园林园艺"></item>
+		<item name="电气照明"></item>
+		<item name="给水排水设备"></item>
+		<item name="玻璃"></item>
+		<item name="竹木材料"></item>
+		<item name="工艺装饰品"></item>
+		<item name="门窗及配件"></item>
+		<item name="装饰板材"></item>
+		<item name="管材管件"></item>
+		<item name="安防设备"></item>
+		<item name="周转材料"></item>
+		<item name="建筑胶剂"></item>
+		<item name="防水材料"></item>
+		<item name="保温材料"></item>
+		<item name="其他"></item>
+	</FirstClass>
+</xml>

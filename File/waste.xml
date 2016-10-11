@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- 余废料 -->
+<MeteData TableName1="modular_category">
+	<FirstClass name="渣土"></FirstClass>
+	<FirstClass name="混凝土块"></FirstClass>
+	<FirstClass name="碎石块"></FirstClass>
+	<FirstClass name="砖瓦碎块"></FirstClass>
+	<FirstClass name="废砂浆"></FirstClass>
+	<FirstClass name="泥浆"></FirstClass>
+	<FirstClass name="沥青块"></FirstClass>
+	<FirstClass name="废塑料"></FirstClass>
+	<FirstClass name="废金属"></FirstClass>
+	<FirstClass name="废竹木"></FirstClass>
+</MeteData>	
