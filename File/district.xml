@@ -3,11 +3,11 @@
 <xml>
 <MeteData TableName1="District" ></MeteData>
 
-<province name="北京"></province>
-<province name="上海"></province>
-<province name="天津"></province>
-<province name="重庆"></province>
-<province name="河北">
+<FirstClass name="北京"></FirstClass>
+<FirstClass name="上海"></FirstClass>
+<FirstClass name="天津"></FirstClass>
+<FirstClass name="重庆"></FirstClass>
+<FirstClass name="河北">
     <city name="石家庄市"></city>
     <city name="唐山市"></city>
     <city name="秦皇岛市"></city>
@@ -19,9 +19,9 @@
     <city name="沧州市"></city>
     <city name="廊坊市"></city>
     <city name="衡水市"></city>
-</province>
+</FirstClass>
 	
-<province name="山西">
+<FirstClass name="山西">
     <city name="太原市"></city>
     <city name="大同市"></city>
     <city name="阳泉市"></city>
@@ -33,9 +33,9 @@
     <city name="忻州市"></city>
     <city name="临汾市"></city>
     <city name="吕梁市"></city>
-</province>
+</FirstClass>
 
-<province name="内蒙古">
+<FirstClass name="内蒙古">
     <city name="呼和浩特市"></city>
     <city name="包头市"></city>
     <city name="乌海市"></city>
@@ -48,10 +48,10 @@
     <city name="兴安盟"></city>
     <city name="锡林郭勒盟"></city>
     <city name="阿拉善盟"></city>
-</province>
+</FirstClass>
 
 
-<province name="辽宁">
+<FirstClass name="辽宁">
     <city name="沈阳市"></city>
     <city name="大连市"></city>
     <city name="鞍山市"></city>
@@ -66,9 +66,9 @@
     <city name="铁岭市"></city>
     <city name="朝阳市"></city>
     <city name="葫芦岛市"></city>
-</province>
+</FirstClass>
 
-<province name="黑龙江">
+<FirstClass name="黑龙江">
     <city name="哈尔滨市"></city>
     <city name="齐齐哈尔市"></city>
     <city name="鸡西市"></city>
@@ -82,9 +82,9 @@
     <city name="黑河市"></city>
     <city name="绥化市"></city>
     <city name="大兴安岭地区"></city>
-</province>
+</FirstClass>
 
-<province name="吉林">
+<FirstClass name="吉林">
     <city name="长春市"></city>
     <city name="吉林市"></city>
     <city name="四平市"></city>
@@ -94,10 +94,10 @@
     <city name="松原市"></city>
     <city name="白城市"></city>
     <city name="延边朝鲜族自治州"></city>
-</province>
+</FirstClass>
 
 
-<province name="江苏">
+<FirstClass name="江苏">
     <city name="南京市"></city>
     <city name="无锡市"></city>
     <city name="徐州市"></city>
@@ -111,9 +111,9 @@
     <city name="镇江市"></city>
     <city name="泰州市"></city>
     <city name="宿迁市"></city>
-</province>
+</FirstClass>
 
-<province name="浙江">
+<FirstClass name="浙江">
     <city name="杭州市"></city>
     <city name="宁波市"></city>
     <city name="温州市"></city>
@@ -125,9 +125,9 @@
     <city name="舟山市"></city>
     <city name="台州市"></city>
     <city name="丽水市"></city>
-</province>
+</FirstClass>
 
-<province name="安徽">
+<FirstClass name="安徽">
     <city name="合肥市"></city>
     <city name="芜湖市"></city>
     <city name="蚌埠市"></city>
@@ -144,9 +144,9 @@
     <city name="亳州市"></city>
     <city name="池州市"></city>
     <city name="宣城市"></city>
-</province>
+</FirstClass>
 
-<province name="福建">
+<FirstClass name="福建">
     <city name="福州市"></city>
     <city name="厦门市"></city>
     <city name="莆田市"></city>
@@ -156,9 +156,9 @@
     <city name="南平市"></city>
     <city name="龙岩市"></city>
     <city name="宁德市"></city>
-</province>
+</FirstClass>
 
-<province name="江西">
+<FirstClass name="江西">
     <city name="南昌市"></city>
     <city name="景德镇市"></city>
     <city name="萍乡市"></city>
@@ -170,9 +170,9 @@
     <city name="宜春市"></city>
     <city name="抚州市"></city>
     <city name="上饶市"></city>
-</province>
+</FirstClass>
 
-<province name="山东">
+<FirstClass name="山东">
     <city name="济南市"></city>
     <city name="青岛市"></city>
     <city name="淄博市"></city>
@@ -190,9 +190,9 @@
     <city name="聊城市"></city>
     <city name="滨州市"></city>
     <city name="荷泽市"></city>
-</province>
+</FirstClass>
 
-<province name="河南">
+<FirstClass name="河南">
     <city name="郑州市"></city>
     <city name="开封市"></city>
     <city name="洛阳市"></city>
@@ -211,9 +211,9 @@
     <city name="周口市"></city>
     <city name="驻马店市"></city>
     <city name="济源市"></city>
-</province>
+</FirstClass>
 
-<province name="湖北">
+<FirstClass name="湖北">
     <city name="武汉市"></city>
     <city name="黄石市"></city>
     <city name="十堰市"></city>
@@ -231,9 +231,9 @@
     <city name="潜江市"></city>
     <city name="天门市"></city>
     <city name="神农架林区"></city>
-</province>
+</FirstClass>
 
-<province name="湖南">
+<FirstClass name="湖南">
     <city name="长沙市"></city>
     <city name="株洲市"></city>
     <city name="湘潭市"></city>
@@ -248,9 +248,9 @@
     <city name="怀化市"></city>
     <city name="娄底市"></city>
     <city name="湘西"></city>
-</province>
+</FirstClass>
 
-<province name="广东">
+<FirstClass name="广东">
     <city name="广州市"></city>
     <city name="韶关市"></city>
     <city name="深圳市"></city>
@@ -272,8 +272,8 @@
     <city name="潮州市"></city>
     <city name="揭阳市"></city>
     <city name="云浮市"></city>
-</province>
-<province name="广西">
+</FirstClass>
+<FirstClass name="广西">
     <city name="南宁市"></city>
     <city name="柳州市"></city>
     <city name="桂林市"></city>
@@ -288,9 +288,9 @@
     <city name="河池市"></city>
     <city name="来宾市"></city>
     <city name="崇左市"></city>
-</province>
+</FirstClass>
 
-<province name="海南">
+<FirstClass name="海南">
     <city name="海口市"></city>
     <city name="三亚市"></city>
     <city name="三沙市"></city>
@@ -310,9 +310,9 @@
     <city name="陵水黎族自治县"></city>
     <city name="保亭黎族苗族自治县"></city>
     <city name="琼中黎族苗族自治县"></city>
-</province>
+</FirstClass>
 
-<province name="四川">
+<FirstClass name="四川">
     <city name="成都市"></city>
     <city name="自贡市"></city>
     <city name="攀枝花市"></city>
@@ -334,9 +334,9 @@
     <city name="阿坝藏族羌族自治州"></city>
     <city name="甘孜藏族自治州"></city>
     <city name="凉山彝族自治州"></city>
-</province>
+</FirstClass>
 
-<province name="贵州">
+<FirstClass name="贵州">
     <city name="贵阳市"></city>
     <city name="六盘水市"></city>
     <city name="遵义市"></city>
@@ -346,9 +346,9 @@
     <city name="毕节地区"></city>
     <city name="黔东南苗族侗族自治州"></city>
     <city name="黔南布依族苗族自治州"></city>
-</province>
+</FirstClass>
 
-<province name="云南">
+<FirstClass name="云南">
     <city name="昆明市"></city>
     <city name="曲靖市"></city>
     <city name="玉溪市"></city>
@@ -367,9 +367,9 @@
     <city name="迪庆藏族自治州"></city>
     <city name="普洱市"></city>
     <city name="迪庆市"></city>
-</province>
+</FirstClass>
 
-<province name="西藏">
+<FirstClass name="西藏">
     <city name="拉萨市"></city>
     <city name="昌都地区"></city>
     <city name="山南地区"></city>
@@ -377,9 +377,9 @@
     <city name="那曲地区"></city>
     <city name="阿里地区"></city>
     <city name="林芝地区"></city>
-</province>
+</FirstClass>
 
-<province name="陕西">
+<FirstClass name="陕西">
     <city name="西安市"></city>
     <city name="铜川市"></city>
     <city name="宝鸡市"></city>
@@ -390,9 +390,9 @@
     <city name="榆林市"></city>
     <city name="安康市"></city>
     <city name="商洛市"></city>
-</province>
+</FirstClass>
 
-<province name="甘肃">
+<FirstClass name="甘肃">
     <city name="兰州市"></city>
     <city name="嘉峪关市"></city>
     <city name="金昌市"></city>
@@ -407,9 +407,9 @@
     <city name="陇南市"></city>
     <city name="临夏州"></city>
     <city name="甘南州"></city>
-</province>
+</FirstClass>
 
-<province name="青海">
+<FirstClass name="青海">
     <city name="西宁市"></city>
     <city name="海东地区"></city>
     <city name="海北藏族自治州"></city>
@@ -418,17 +418,17 @@
     <city name="果洛藏族自治州"></city>
     <city name="玉树藏族自治州"></city>
     <city name="海西蒙古族藏族自治州"></city>
-</province>
+</FirstClass>
 
-<province name="宁夏">
+<FirstClass name="宁夏">
     <city name="银川市"></city>
     <city name="石嘴山市"></city>
     <city name="吴忠市"></city>
     <city name="固原市"></city>
     <city name="中卫市"></city>
-</province>
+</FirstClass>
 
-<province name="新疆">
+<FirstClass name="新疆">
     <city name="乌鲁木齐市"></city>
     <city name="克拉玛依市"></city>
     <city name="吐鲁番地区"></city>
@@ -452,7 +452,7 @@
     <city name="双河市"></city> 
     <city name="可克达拉市"></city>
     <city name="昆玉市"></city>
-</province>
+</FirstClass>
 </xml>
 
 

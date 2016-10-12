@@ -1,7 +1,7 @@
 ﻿<!-- 施工队 -->
 <xml>
 	<MeteData TableName1="Team_category" />
-	<Items ID="安装类">
+	<FirstClass ID="安装类">
 		<item name="拆卸安装/设备安装/拆除"></item>
 		<item name="电焊工/钣金/冷作"></item>
 		<item name="给排水/消防/水暖管道"></item>
@@ -12,8 +12,8 @@
 		<item name="活动房安装/制作"></item>
 		<item name="中央空调安装"></item>
 		<item name="其他安装队伍"></item>
-	</Items>
-	<Items ID="施工类">
+	</FirstClass>
+	<FirstClass ID="施工类">
 		<item name="人工挖桩/爆破"></item>
 		<item name="模板工/木工"></item>
 		<item name="环氧地坪"></item>
@@ -39,8 +39,8 @@
 		<item name="杂工/力工/搬运工/民工"></item>
 		<item name="其他施工队伍"></item>
 		<item name="环保施工"></item>
-	</Items>
-	<Items ID="预算类">
+	</FirstClass>
+	<FirstClass ID="预算类">
 		<item name="钢结构安装/制作"></item>
 		<item name="拆卸安装/设备安装/拆除"></item>
 		<item name="电焊工/钣金/冷作"></item>
@@ -53,8 +53,8 @@
 		<item name="电梯安装/制作"></item>
 		<item name="中央空调安装"></item>
 		<item name="其他安装队伍"></item>
-	</Items>
-	<Items ID="设计类">
+	</FirstClass>
+	<FirstClass ID="设计类">
 		<item name="钢结构安装/制作"></item>
 		<item name="拆卸安装/设备安装/拆除"></item>
 		<item name="电焊工/钣金/冷作"></item>
@@ -67,8 +67,8 @@
 		<item name="电梯安装/制作"></item>
 		<item name="中央空调安装"></item>
 		<item name="其他安装队伍"></item>
-	</Items>
-	<Items ID="监理类">
+	</FirstClass>
+	<FirstClass ID="监理类">
 		<item name="钢结构安装/制作"></item>
 		<item name="拆卸安装/设备安装/拆除"></item>
 		<item name="电焊工/钣金/冷作"></item>
@@ -81,8 +81,8 @@
 		<item name="电梯安装/制作"></item>
 		<item name="中央空调安装"></item>
 		<item name="其他安装队伍"></item>
-	</Items>
-	<Items ID="造价类">
+	</FirstClass>
+	<FirstClass ID="造价类">
 		<item name="钢结构安装/制作"></item>
 		<item name="拆卸安装/设备安装/拆除"></item>
 		<item name="电焊工/钣金/冷作"></item>
@@ -95,7 +95,7 @@
 		<item name="电梯安装/制作"></item>
 		<item name="中央空调安装"></item>
 		<item name="其他安装队伍"></item>
-	</Items>
+	</FirstClass>
 </xml>
 
 
